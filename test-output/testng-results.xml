@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88059" started-at="2019-04-07T10:21:23Z" finished-at="2019-04-07T10:22:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88059" started-at="2019-04-07T10:21:23Z" finished-at="2019-04-07T10:22:51Z">
+      <class name="com.tc.ak.testScripts.RegistrationTest">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tc.ak.testScripts.RegistrationTest@6e3c1e69]" name="login" duration-ms="39196" started-at="2019-04-07T10:21:24Z" data-provider="loginDataProvider" finished-at="2019-04-07T10:22:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rakesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rakesh123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tc.ak.testScripts.RegistrationTest@6e3c1e69]" name="login" duration-ms="12018" started-at="2019-04-07T10:22:04Z" data-provider="loginDataProvider" finished-at="2019-04-07T10:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sonia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sonia123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failed! please enter strong password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tc.ak.testScripts.RegistrationTest@6e3c1e69]" name="login" duration-ms="11894" started-at="2019-04-07T10:22:16Z" data-provider="loginDataProvider" finished-at="2019-04-07T10:22:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Toshina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[toshina123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tc.ak.testScripts.RegistrationTest@6e3c1e69]" name="login" duration-ms="12492" started-at="2019-04-07T10:22:28Z" data-provider="loginDataProvider" finished-at="2019-04-07T10:22:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Garvit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[garvit123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tc.ak.testScripts.RegistrationTest@6e3c1e69]" name="login" duration-ms="11333" started-at="2019-04-07T10:22:40Z" data-provider="loginDataProvider" finished-at="2019-04-07T10:22:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhavi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhavi123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failed! please enter strong password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.tc.ak.testScripts.RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
